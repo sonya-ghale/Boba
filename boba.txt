@@ -1,0 +1,4 @@
+Font awesome from 
+https://cdnjs.com/libraries/font-awesome
+
+https://fontawesome.com/search?q=search&o=r
